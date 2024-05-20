@@ -1,0 +1,14 @@
+button{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    font-size: 100px;
+    padding-top: 0;
+    margin-top: 0;
+    line-height: 100px;
+    vertical-align: top;
+}
+
+button:disabled{
+    border-color: black;
+}
